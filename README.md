@@ -13,6 +13,8 @@ Add it to your HTML file:
 
 ```html
 <script src="bower_components/angular-select2/dist/angular-select2.min.js"></script>
+<script src="bower_components/select2/select2.js"></script>
+<script src="bower_components/select2/select2_locale_zh-CN.js"></script>
 ```
 
 Reference it as a dependency for your app module:
